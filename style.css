@@ -63,7 +63,7 @@ header nav ul li {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 700px;
+  height: 1000px;
   width: 100%;
   background-color: grey;
   background-image: url(png\ bone.png);
@@ -248,8 +248,8 @@ h5 {
   background-size: contain;
   display: flex;
   flex-direction: column;
-  justify-content: center; /* Centraliza verticalmente */
-  align-items: center; /* Centraliza horizontalmente */
+  justify-content: center; 
+  align-items: center; 
   padding: 5px;
   position: relative;
   padding-top: 80px;    
