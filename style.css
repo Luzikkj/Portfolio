@@ -63,7 +63,7 @@ header nav ul li {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 1000px;
+  height: 100%;
   width: 100%;
   background-color: grey;
   background-image: url(png\ bone.png);
